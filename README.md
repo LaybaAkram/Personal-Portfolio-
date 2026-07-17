@@ -1,6 +1,6 @@
 # Personal Portfolio Website
 
-A clean, multi-page personal portfolio website built entirely with **HTML** , showcasing my education, experience, projects, hobbies, strengths, and areas of growth as an aspiring AI/ML Engineer.
+A clean, multi-page personal portfolio website built entirely with **HTML** where i'm showcasing my education, experience, projects, hobbies, strengths, and areas of growth as an aspiring AI/ML Engineer.
 
 👩‍💻 **Author:** [Layba Akram](https://github.com/LaybaAkram)
 
@@ -30,8 +30,8 @@ The goal of this project was to practice structuring a real multi-page site with
 
 ## Tech Stack
 
-- **HTML5 only** — semantic structure and inline styling, no external CSS or JS files
-- **No frameworks, no build tools** — a deliberately lightweight, dependency-free static site
+- **HTML5 only** : semantic structure and inline styling, no external CSS or JS files
+- **No frameworks, no build tools** : a deliberately lightweight, dependency-free static site
 
 ---
 
